@@ -1,0 +1,27 @@
+****NOTES***
+
+HTML - Aula 01
+	Principais Tags
+		<html></html> Conteúdo HTML
+		<head>...</head> Cabeçalho do documento 
+		<title>...</title> Título da página HTML
+		<body>...</body> Corpo do documento (página)
+		<h1>...</h1> Cabeçalho de nível 1 (pode varias de 1 a 6)
+		<p>...</p> Parágrafo
+		<div>..</div> Conteúdo genérico
+		<a>...</a> Link
+			target="_blanks" -> abrir em outra página
+		<span>...</span> Conteúdo genérico em linha
+		<table>...</table> Tabela
+		<ul>...</ul> Lista não numerada
+		<ol>...</ol> Lista numerada
+		<li>...</li> Elemento da lista  (<ul> ou <ol>)
+		<img/> Imagem
+		
+	
+	Atalhos
+	
+		Cmd + / -> Comentário(<!-- -->)
+
+	 
+	
